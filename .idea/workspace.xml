@@ -26,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.05711086">
-              <caret line="3" column="72" selection-start-line="3" selection-start-column="72" selection-end-line="3" selection-end-column="72" />
+            <state vertical-scroll-proportion="0.3617021">
+              <caret line="301" column="107" selection-start-line="301" selection-start-column="107" selection-end-line="301" selection-end-column="107" />
               <folding />
             </state>
           </provider>
@@ -38,6 +38,13 @@
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
@@ -360,12 +367,12 @@
       <created>1441196372748</created>
       <option name="number" value="Default" />
       <updated>1441196372748</updated>
-      <workItem from="1441196374296" duration="176000" />
+      <workItem from="1441196374296" duration="4075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176000" />
+    <option name="totallyTimeSpent" value="4075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -410,8 +417,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05711086">
-          <caret line="3" column="72" selection-start-line="3" selection-start-column="72" selection-end-line="3" selection-end-column="72" />
+        <state vertical-scroll-proportion="0.3617021">
+          <caret line="301" column="107" selection-start-line="301" selection-start-column="107" selection-end-line="301" selection-end-column="107" />
           <folding />
         </state>
       </provider>
